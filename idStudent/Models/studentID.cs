@@ -1,6 +1,6 @@
 namespace studentID.Models
 {
-    public class studentID
+    public class Students
     {
         public int id {get;set;}
         public string first_name { get; set; }

@@ -2,7 +2,7 @@
 
 using System.Collections.Generic;
 
-using idStudent.Models;
+using studentID.Models;
 
 using Microsoft.AspNetCore.Mvc;
 
